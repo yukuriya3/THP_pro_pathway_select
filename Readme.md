@@ -9,12 +9,12 @@ Overview
 An example of system analysis and pathway selection by Monte calro simulation
 
 ## Requirement
-python 3.x
-numpy
-scipy
-matplotlib
-pandas
-csv
+ python 3.x
+ numpy
+ scipy
+ matplotlib
+ pandas
+ csv
 ## Install
 pip install THP_pro_pathway_select
 ## Usage
